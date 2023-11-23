@@ -27,6 +27,7 @@ I’m frontend developer
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Eslint](https://img.shields.io/badge/eslint-gray.svg?style=for-the-badge&logo=eslint&logoColor=purple)
 
 
 
